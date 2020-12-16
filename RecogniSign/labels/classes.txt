@@ -1,0 +1,6 @@
+mandatory
+cautionary
+prohibitory
+informatory
+stop
+other

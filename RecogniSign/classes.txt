@@ -1,0 +1,9 @@
+mandatory
+cautionary
+prohibitory
+informatory
+stop
+other
+
+kc- 0-sd1(4)
+khalil- sd1(5)-sd1(41)
